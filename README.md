@@ -1,4 +1,4 @@
-# Projeto de Processamento de Imagens - Binarização e Escala de Cinza
+# Projeto de Redução de Dimensionalidade em Imagens para Redes Neurais
 
 Este projeto tem como objetivo demonstrar a transformação de imagens coloridas em escala de cinza e binarização, sem o uso de bibliotecas externas como OpenCV ou PIL. O código foi implementado em Python e está estruturado em um notebook Jupyter no Google Colab.
 
