@@ -2,12 +2,6 @@
 
 Este projeto tem como objetivo demonstrar a transformação de imagens coloridas em escala de cinza e binarização, sem o uso de bibliotecas externas como OpenCV ou PIL. O código foi implementado em Python e está estruturado em um notebook Jupyter no Google Colab.
 
-## 🚀 Teste no Google Colab
-
-Para testar o código diretamente no Google Colab, clique no link abaixo:
-
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunafita/reducao-dimensionalidade-imagens/blob/main/notebooks/reducao_dimensionalidade_imagens.ipynb)
-
 ## Descrição
 
 O projeto realiza as seguintes etapas de processamento de imagem:
