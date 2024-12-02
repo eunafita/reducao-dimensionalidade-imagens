@@ -6,7 +6,7 @@ Este projeto tem como objetivo demonstrar a transformação de imagens coloridas
 
 Para testar o código diretamente no Google Colab, clique no link abaixo:
 
-[Abra o notebook no Google Colab](https://colab.research.google.com/github/eunafita/reducao-dimensionalidade-imagens/blob/main/notebooks/reducao_dimensionalidade_imagens.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eunafita/reducao-dimensionalidade-imagens/blob/main/notebooks/reducao_dimensionalidade_imagens.ipynb)
 
 ## Descrição
 
