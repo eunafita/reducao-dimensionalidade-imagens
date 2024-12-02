@@ -61,3 +61,9 @@ pip install -r requirements.txt
 ## Contribuição
 
 Se você deseja contribuir para este projeto, fique à vontade para fazer um fork, criar uma branch e enviar um pull request.
+
+## ⭐️ Se gostou, dê uma estrela!
+
+Se você achou o projeto útil ou interessante, não esqueça de dar uma estrela no repositório! Isso ajuda outros usuários a encontrar o projeto e motiva a equipe a continuar melhorando. 
+
+Obrigado por conferir o projeto!
